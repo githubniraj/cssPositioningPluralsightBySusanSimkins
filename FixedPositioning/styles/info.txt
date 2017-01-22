@@ -1,0 +1,2 @@
+- when setting the bluebox to fixed position, the greenbox comes up to fulfill the gap and bluebox goes to the position specified by us.
+- by doing so, the body height will be small to have all the contents, so we need to increase the height of the body to adjust the contents.
